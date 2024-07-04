@@ -1,0 +1,120 @@
+.Home{
+    background-image: url('/public/images/main2.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 100vw;
+    height: 90vh;
+    overflow: hidden;
+}
+.Home h3{
+    position: absolute;
+    top: 12rem;
+    left: 7rem;
+    color: rgb(217, 231, 24);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.Home p{
+    font-size: 1.5rem;
+    color: white;
+    position: absolute;
+    top: 17rem;
+    left: 7rem;
+}
+.Home button{
+    width: 12vw;
+    height: 9vh;
+    border-radius: 1rem;
+    position: absolute;
+    color: white;
+    top: 24rem;
+    left: 7rem;
+}
+.container2{
+    background-image: url('/public/images/main11.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 100vw;
+    height: 90vh;
+    overflow: hidden;
+}
+.container2 h3{
+    position: absolute;
+    top: 8rem;
+    left: 7rem;
+    color: rgb(217, 231, 24);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.container2 .paraw{
+    font-size: 1.5rem;
+    position: absolute;
+    top: 12rem;
+    left: 7rem;
+}
+.container2 h2{
+    font-size: 1.5rem;
+    position: absolute;
+    top: 17rem;
+    left: 7rem;
+    color: rgb(217, 231, 24);;
+}
+.container2 .para{
+    font-size: 1.5rem;
+    position: absolute;
+    top: 21rem;
+    left: 7rem;
+    color: white;
+}
+.Services{
+    background-image: url('/public/images/main12.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 100vw;
+    height: 90vh;
+}
+.card .span1{
+    position: absolute;
+    top: 6rem;
+    left: 2rem;
+    color: cornsilk;
+    font-size: 2rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.card .span2{
+    position: absolute;
+    top: 11rem;
+    left: 2rem;
+    color: cornsilk;
+    font-size: 2rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.card .span3{
+    position: absolute;
+    top: 16rem;
+    left: 2rem;
+    color: cornsilk;
+    font-size: 2rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.card .span4{
+    position: absolute;
+    top: 21rem;
+    left: 2rem;
+    color: cornsilk;
+    font-size: 2rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.card .span5{
+    position: absolute;
+    top: 27rem;
+    left: 2rem;
+    color: cornsilk;
+    font-size: 2rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.contact{
+    background-image: url('/public/images/main14.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 100vw;
+    height: 87vh;
+}
